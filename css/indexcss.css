@@ -1,0 +1,147 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  background-color: #363636;
+}
+
+.logo{
+    text-align: center;
+    transform: translate(260%, 0%);
+    position: absolute;
+    top: 10px;
+}
+
+.heading1{
+    font-family: Adlery Pro;
+    color: #F5EDDA;
+    position: absolute;
+    top: 90px;
+    font-size: 100px;
+    transform: translate(69%, 0%);
+}
+
+.heading2{
+    font-family: Adlery Pro;
+    color: #F5EDDA;
+    position: absolute;
+    top: 90px;
+    font-size: 100px;
+    transform: translate(285%, 0%);
+}
+
+.slogan{
+    font-family: Bell MT;
+    color: #F5EDDA;
+    position: absolute;
+    top: 212px;
+    font-size: 30px;
+    transform: translate(95%, 0%);
+}
+
+.pic1{
+    text-align: center;
+    transform: translate(150%, 0%);
+    position: absolute;
+    top: 350px;
+}
+
+.coffee{
+    font-family: Adlery Pro;
+    color: #98694f;
+    position: absolute;
+    top: 435px;
+    font-size: 85px;
+    transform: translate(200%, 0%);
+}
+
+.text1{
+    font-family: Bell MT;
+    color: #e9cba7;
+    position: absolute;
+    top: 570px;
+    font-size: 38px;
+    transform: translate(125%, 0%);
+}
+
+.pic2{
+    text-align: center;
+    transform: translate(150%, 0%);
+    position: absolute;
+    top: 900px;
+}
+
+.tea{
+    font-family: Adlery Pro;
+    color: #98694f;
+    position: absolute;
+    top: 970px;
+    font-size: 85px;
+    transform: translate(430%, 0%);
+}
+
+.text2{
+    font-family: Bell MT;
+    color: #e9cba7;
+    position: absolute;
+    top: 1100px;
+    font-size: 38px;
+    transform: translate(125%, 0%);
+    
+}
+
+.pic3{
+    text-align: center;
+    transform: translate(150%, 0%);
+    position: absolute;
+    top: 1400px;
+}
+
+.bakery{
+    font-family: Adlery Pro;
+    color: #98694f;
+    position: absolute;
+    top: 1470px;
+    font-size: 85px;
+    transform: translate(180%, 0%);
+}
+
+.text3{
+    font-family: Bell MT;
+    color: #e9cba7;
+    position: absolute;
+    top: 1620px;
+    font-size: 38px;
+    transform: translate(120%, 0%);
+    
+}
+
+
+.button {
+  background-color: #F5EDDA; 
+  border: none;
+  border-radius: 10px;
+  color: #66462f;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  font-family: Adlery Pro;
+  top: 2000px;
+  transform: translate(195%, 0%);
+  position: absolute;
+}
+
+.footer {
+  position:absolute;
+  width: 100%;
+  top:310%;
+  padding: 9px;
+  text-align: center;
+  background: #66462f;
+  margin-top: 30px;
+  color:#F5EDDA;
+  font-family: Bell MT;
+}
